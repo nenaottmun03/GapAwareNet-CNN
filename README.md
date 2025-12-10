@@ -1,3 +1,4 @@
+![Validation Accuracy](images/val_acc.jpg)
 GapAwareNet
 
 A Modern CNN That Bridges Classic Deep Learning Gaps
