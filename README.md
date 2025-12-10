@@ -62,7 +62,7 @@ pip install torch torchvision
 Quick Start
 
 Clone repository:
-git clone https://github.com/yourusername/GapAwareNet.git
+git clone https://github.com/nenaottmun03/GapAwareNet.git
 
 cd GapAwareNet
 
